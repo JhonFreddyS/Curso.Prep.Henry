@@ -1,0 +1,26 @@
+Explicacion de los siguientes conceptos:
+
+SOLUCION
+
+Variables : Una variable es un elemento que se emplea para almacenar y hacer referencia a un valor. La palabra Var 
+Ejemplo: Vamos a realizar una suma.
+	 var numero_1 = 3
+         var numero_2 = 1
+         var resultado = numero_1 + numero_2
+En este caso las variables son numero_1 y numero_2, en pocas palabras es como una cajita que al abrirlo
+te va a mostrar que contiene, si unimos las dos cajitas vamos a tener un resultado final. 
+	
+Strings : El string es una cadena de caracteres es decir solo texto y numero pero que llevan su comillas dobles o simples
+Ejemplo: "Esta es una cadena " , "Hola" , "45" ( En este caso no es el numero 45 si no la cadena formada por el numero 4 y 5).
+
+Funciones (argumentos, return) : Una funcion return lo que hace es devolver un resultado junto con el nombre de la variable
+que se quiere devolver. Ejemplo: Si tengo creada una variable PRECIOTOTAL y deseo saber que valor contiene ejecuto
+Return PRECIOTOTAL.
+
+Declaraciones if : Es una estructura de control utilizada para tomar decisiones. Ejemplo: Si te regalo 1000 pesos , vas a la tienda
+y quieres comprar ya sea un yogurt o una Coca Cola , en ese caso sabes que cuesta lo mismo. Entonces la señora te dice 
+Voy a mirar si hay Yogurt  ella revisa y te dice que no hay entonces tu dice dame una Coca cola y ella dice que si hay entonces lo que
+lo que hace if es verificar y de acuerdo a la condiciones te da un resultado.
+
+Valores booleanos (true, false): Es una variable de contenido true ó false.Es decir si cumple o no cumple.
+ Ejemplo: ¿Los conejos son roedores?  Si o No. Es tomar la decision adecuada dependiendo del caso.
